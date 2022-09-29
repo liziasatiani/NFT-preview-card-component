@@ -16,5 +16,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Author
 
 - Github - [Lizi Asatiani](https://github.com/liziasatiani)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/liziasatiani)
-- Linkedin - [@yourusername](https://www.linkedin.com/feed/)
+- Frontend Mentor - [@liziasatiani](https://www.frontendmentor.io/profile/liziasatiani)
+- Linkedin - [@liziasatiani](https://www.linkedin.com/feed/)
